@@ -1,38 +1,104 @@
-## Olá tudo bem ? 👋
+# Hi, I'm Thyago Henrique Pacher 👋
 
-Me chamo Thyago Henrique Pacher nascido em 1987.
+I'm a backend software developer born in 1987, with a strong academic background and solid experience building and maintaining real-world systems.
 
-## Formação acadêmica:
-- Tecnologia em Análise e Desenvolvimento de Sistemas pela UTFPR (Universidade Tecnológica Federal do Paraná), periodo de 3 anos de 06/2009 a 06/2012.
-- Mestrado em Ciências da Computação pela UTFPR de 2018 a 2021. A tese foi sobre: Um agente de refatoração de projetos em Java usando Design Patterns.
+I focus on writing clear, maintainable code and improving existing applications step by step — especially legacy systems that are critical to the business.
 
-## Conhecimentos:
-- Linguagens de programação:
-PHP, Java, Javascript, React
+> 🇧🇷 Brazilian developer, open to learning and new opportunities.  
+> 🇺🇸 This profile is written in English to reach a broader audience.
 
-- Ferramentas para uso geral:
-   - [RabbitMQ](https://www.rabbitmq.com/): messageria entre aplicativos
-   - [Jenkins](https://www.jenkins.io/): para builds de código fonte
-   - [Jira](https://www.atlassian.com/br/software/jira): controle de cards e gestão de projetos
-   - [Zabbix](https://www.zabbix.com/): painel para retorno de gráficos via query
-   - [Trello](https://trello.com/pt-BR?): quadro estilo Kanboard
-   - [MailHog](https://github.com/mailhog/MailHog): fake SMTP para testes locais de envio de e-mails 
+---
 
-- Frameworks conhecidos em PHP:
-  - [Laravel](https://laravel.com/)
-  - [Laravel Lumen](https://lumen.laravel.com/docs/10.x)
-  - [Codeigniter 3](https://codeigniter.com/userguide3/index.html)
-  - [Yii](https://www.yiiframework.com/): alguns testes pessoais
- 
-- Ferramentas para teste unitário:
-  - [PHPUnit](https://phpunit.de/) para PHP
-  - [JUnit](https://junit.org/junit5/) para Java
-  - [Jtest](https://jestjs.io/) para testes em projetos escritos com Javascript
- 
-- Banco de dados:
-  - [MySQL](https://www.mysql.com/)
-  - [SqlServer 2008](https://learn.microsoft.com/pt-br/previous-versions/sql/sql-server-2008/ms130214(v=sql.100))
-  - [BigQuery](https://cloud.google.com/bigquery)
-  - [PostgreSQL](https://www.postgresql.org/)
-  - [MongoDB](https://www.mongodb.com/pt-br)
-  
+## 🎓 Academic Background
+
+- **Bachelor’s Degree in Systems Analysis and Development**  
+  Federal University of Technology – Paraná (UTFPR)  
+  *2009 – 2012*
+
+- **Master’s Degree in Computer Science**  
+  Federal University of Technology – Paraná (UTFPR)  
+  *2018 – 2021*  
+
+  **Thesis:**  
+  *A Refactoring Agent for Java Projects Using Design Patterns*
+
+---
+
+## 💼 Professional Focus
+
+- Backend development and system integration
+- Maintenance and evolution of legacy systems
+- Design and implementation of APIs
+- Messaging and asynchronous communication
+- Code quality, refactoring, and maintainability
+- Practical solutions aligned with business needs
+
+I value stability, readability, and solutions that can be understood and maintained by other developers.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- PHP
+- Java
+- JavaScript
+- React
+
+### PHP Frameworks
+- Laravel
+- Laravel Lumen
+- CodeIgniter 3
+- Yii (personal experiments)
+
+### Messaging & DevOps Tools
+- RabbitMQ (application messaging)
+- Jenkins (CI / build pipelines)
+- Jira (project and issue tracking)
+- Trello (Kanban-style boards)
+- Zabbix (monitoring and dashboards)
+- MailHog (local SMTP testing)
+
+### Testing Tools
+- PHPUnit (PHP)
+- JUnit (Java)
+- Jest (JavaScript)
+
+### Databases
+- MySQL
+- SQL Server 2008
+- PostgreSQL
+- MongoDB
+- BigQuery
+
+---
+
+## 📦 About My Projects
+
+On GitHub, you’ll find:
+
+- Backend-focused experiments and libraries
+- Utilities created to solve real problems
+- Studies related to architecture, refactoring, and maintainable code
+- Projects built for learning, improving, or practical usage
+
+Most repositories reflect things I’ve actually used or studied in depth.
+
+---
+
+## 🌱 Mindset
+
+- Continuous learning
+- Respect for existing systems and legacy code
+- Preference for simple, honest solutions
+- Improvement over perfection
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/thyagopacher
+
+---
+
+> Good software is built with clarity, responsibility, and continuous improvement.
